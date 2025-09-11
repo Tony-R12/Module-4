@@ -25,6 +25,8 @@ print("Sum :",returnSum(myDict))
 ```
 
 ## Output
+<img width="395" height="167" alt="image" src="https://github.com/user-attachments/assets/b71b21ee-3710-4705-8054-015dfe7b17be" />
+
 
 
 ## Result
